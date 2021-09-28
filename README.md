@@ -21,9 +21,6 @@
 
 ![Flixter part 2 walkthrough gif](https://user-images.githubusercontent.com/81383919/135155447-c4097747-56a5-4595-bda2-4a8defa3c260.gif)
 
-
-<img src="(https://user-images.githubusercontent.com/81383919/135154930-a8329840-b0a2-4f5c-b8db-322e7b9e6f8e.gif)" width=250><br>
-
 ### Notes
 
 Describe any challenges encountered while building the app.
