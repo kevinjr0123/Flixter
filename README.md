@@ -1,5 +1,7 @@
 📝 `NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment. (🚫 Remove this paragraph after after checking off completed user stories)
 
+📝 `NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment. (🚫 Remove this paragraph after after checking off completed user stories)
+
 ## Flix Part 2
 
 ### User Stories
@@ -23,7 +25,7 @@
 
 `TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="[Flixter part 2 walkthrough gif](https://user-images.githubusercontent.com/81383919/135154664-10bb4ff7-8df1-4c7d-834d-33602c059a4c.gif)" width=250><br>
+<img src="![Flixter part 2 walkthrough gif](https://user-images.githubusercontent.com/81383919/135154930-a8329840-b0a2-4f5c-b8db-322e7b9e6f8e.gif)" width=250><br>
 
 ### Notes
 
