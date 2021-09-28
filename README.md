@@ -1,7 +1,4 @@
-# Flix
-Flix is an app that allows users to browse movies from the [The Movie Database API](http://docs.themoviedb.apiary.io/#).
-
-
+📝 `NOTE` Paste this template at the top of your existing `README.md` file from part 1 of this assignment. (🚫 Remove this paragraph after after checking off completed user stories)
 
 ## Flix Part 2
 
@@ -9,8 +6,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 #### REQUIRED (10pts)
 
-- [x] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
-- [x] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
+- [ ] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
+- [ ] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
 
 #### BONUS
 
@@ -24,10 +21,9 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 
 ### App Walkthough GIF
 
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `![Flixter part 2 walkthrough gif](https://user-images.githubusercontent.com/81383919/135153991-df9284f6-cf93-45f5-b9a5-3a6e8cfceb5a.gif)`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
+`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src=" ![Flixter part 2 walkthrough gif](https://user-images.githubusercontent.com/81383919/135153714-25d73a80-faab-45cb-ac0f-6b067b37d6a5.gif)"
- width=250><br>
+<img src="![Flixter part 2 walkthrough gif](https://user-images.githubusercontent.com/81383919/135154136-4638cbf2-b46c-4396-9606-90bbc75c33ce.gif)" width=250><br>
 
 ### Notes
 
@@ -36,7 +32,6 @@ Describe any challenges encountered while building the app.
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
----
 
 ## Flix Part 1
 
